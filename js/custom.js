@@ -15,9 +15,9 @@ var swiper = new Swiper(".mySwiper1", {
 gsap.registerPlugin(ScrollTrigger);
 gsap.utils.toArray(".box:nth-child(odd)").forEach(item => {
   gsap.to(item, {
-      yPercent:50,
+      yPercent:250,
       ease: "none",
-      duration: 0.1,
+      duration: 0.5,
       scrollTrigger: {
           trigger: item,
           start: "top bottom",

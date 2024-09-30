@@ -459,7 +459,7 @@ header .main-menu li .sub .sub-menu li:hover a{
 }
 .famous-painting .gallery-group .box13{
   position:absolute;
-  bottom:300px;
+  bottom:500px;
   right:20px;
   img{
     width:200px;
@@ -476,7 +476,7 @@ header .main-menu li .sub .sub-menu li:hover a{
 
 .famous-painting .gallery-group .box15{
   position:absolute;
-  bottom:600px;
+  bottom:800px;
   left:120px;
   img{
     width:400px;
